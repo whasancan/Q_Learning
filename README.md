@@ -38,5 +38,6 @@ print("Q-table = ")
 print(qtable)
 ```
 
+![ÇIKTI](0 Q-tablosu.png)
 
 
