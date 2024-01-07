@@ -5,7 +5,7 @@ Gym kütüphanesindeki FrozenLake oyunu ile Q-learning'in algoritamsını anlama
 
 ## Bu kütüphaneleri kullanacağız.
 
-'''
+'''python
 import gym
 import random
 import numpy as np
@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 ## FrozenLake oyunumuzu başlatıyoruz.
 
-'''
+'''python
 environment = gym.make("FrozenLake-v1", is_slippery=False)
 environment.reset()
 environment.render()
@@ -24,7 +24,7 @@ environment.render()
 
 ## Sıfırlarla dolu Q tablomuzu oluşturalım.
 
-'''
+'''python
 # tablomuz ilk başta 0 larla doludur çünkü daha öğrenme yapılmamıştır
 #(buluduğu konum x yapılan eylem) seşkinde tablo oluşur
 qtable = np.zeros((16, 4))
