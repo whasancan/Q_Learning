@@ -137,5 +137,14 @@ print(f"Başarı: % {hesaplama}")
 ```
 
 
+## İlk ve son Q-tablomuz:
+
+![İlk ve son Q-tablomuz:](https://github.com/whasancan/q_learning/blob/92d3cd6b48d05e90b96d1605ef51da049f217edd/Son%20Q-toblosu.png)
+
+
+# Örnek grafiğimiz: 
+
+![Örnek grafiğimiz: ](https://github.com/whasancan/q_learning/blob/92d3cd6b48d05e90b96d1605ef51da049f217edd/%C3%B6rrnek_Qtablomuz.png)
+
 
 
