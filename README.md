@@ -38,6 +38,6 @@ print("Q-table = ")
 print(qtable)
 ```
 
-![ÇIKTI](0 Q-tablosu.png)
+![ÇIKTI](https://github.com/whasancan/q_learning/blob/91002639f48b57687338c584ffe590453dbae82d/0%20Q-tablosu.png)
 
 
